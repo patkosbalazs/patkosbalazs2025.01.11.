@@ -1,3 +1,4 @@
 # patkosbalazs2025.01.11.
 # szerkesztettem a readme-t
-# konfliktus megolsáda
+# konfliktus megoldása
+# újabb konfliktus
